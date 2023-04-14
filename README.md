@@ -1,9 +1,9 @@
-                                                      <-- MADE BY PRACHI GUPTA -->
+                                                     <-- MADE BY PRACHI GUPTA -->
 
 https://user-images.githubusercontent.com/120955356/231961596-a9f1c75d-5646-4373-83fc-cbaa9b84dd12.mp4
 
 # Gesture Volume Control
-Gesture Volume Control is the about changing the volume according to the movement of fingers. The volume changes as the distance between the index finger and thumb varies.
+Gesture Volume Controller changes the volume according to the movement of fingers. The volume changes as the distance between the index finger and thumb varies.
 
 ## Libraries used
 
